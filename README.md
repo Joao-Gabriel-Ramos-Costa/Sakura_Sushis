@@ -94,7 +94,7 @@ O design utiliza principalmente uma combinação de **tons de rosa, laranja, pre
 
 ### Tela inicial
 
-![Tela inicial do Sakura Sushis](./screenshots/tela-inicial.png)
+![Tela inicial do Sakura Sushis](./img/initial.png)
 
 A tela inicial apresenta as principais opções do sistema:
 
